@@ -1,0 +1,11 @@
+USE InstaClone;
+
+CREATE TABLE Posts (
+    post_id INT PRIMARY KEY,
+    user_id INT,
+    caption VARCHAR(255),
+    post_date DATE,
+    FOREIGN KEY (user_id) REFERENCES Users(user_id)
+);
+
+DESCRIBE Posts;

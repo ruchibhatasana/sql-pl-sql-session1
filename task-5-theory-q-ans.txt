@@ -1,0 +1,32 @@
+MySQL
+
+Commonly used for web applications and websites.
+Popular with PHP, Python, and Java applications.
+Suitable for small to large-scale web projects.
+Known for being easy to use and widely supported.
+
+
+PostgreSQL
+
+Commonly used for large and complex applications.
+Popular in web apps, data analytics, and backend systems.
+Strong support for advanced SQL and complex data.
+Often chosen when reliability and flexibility are important.
+
+
+
+Oracle
+
+Commonly used in enterprise systems and large organizations.
+Used in banking, government, healthcare, and business applications.
+Designed to handle very large databases and heavy workloads.
+Provides advanced security and database management features.
+
+
+
+SQLite
+
+Commonly used in mobile apps, desktop apps, and embedded systems.
+Stores the complete database in a single file.
+Does not require a separate database server.
+Popular for applications that need a lightweight local database.
